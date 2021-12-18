@@ -127,5 +127,6 @@
 /*************************left-nav***********************************/
 
 .logOutBtn {
-  padding-top: 280%;
+  position: absolute;
+  bottom: 10px;
 }
