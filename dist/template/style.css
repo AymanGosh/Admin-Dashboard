@@ -1,3 +1,6 @@
+h1 {
+  color: ghostwhite;
+}
 #container {
   height: 100vh;
   display: grid;
@@ -35,7 +38,7 @@
 .left-nav {
   grid-area: l;
   background-color: #374151;
-  color: whitesmoke;
+  color: #dcdcdc;
   padding-left: 5%;
 }
 
