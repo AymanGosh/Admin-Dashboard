@@ -103,25 +103,20 @@
   display: block;
 }
 /*************************main***********************************/
-.calendar {
-  height: 50%;
-  background-color: white;
-  margin-bottom: 15px;
-  width: 98%;
-}
+
 .table {
-  height: 50%;
+  height: 100%;
   background-color: white;
   overflow: scroll;
 }
 
 /*************************right-nav***********************************/
-.cards {
+.cardsPi {
   height: 45%;
   background-color: white;
   margin-bottom: 30px;
 }
-.pi {
+.calendar {
   height: 45%;
   background-color: white;
 }
