@@ -35,6 +35,8 @@
 .left-nav {
   grid-area: l;
   background-color: #374151;
+  color: whitesmoke;
+  padding-left: 5%;
 }
 
 .main {
@@ -48,7 +50,7 @@
   background-color: #f2f4f6;
   padding: 5%;
 }
-/*****************************nav bar*****************************************/
+/*****************************head*****************************************/
 .searchInp {
   width: 40%;
 }
@@ -100,13 +102,30 @@
 .show {
   display: block;
 }
-/************************************************************/
+/*************************main***********************************/
+.calendar {
+  height: 50%;
+  background-color: white;
+  margin-bottom: 15px;
+}
 .table {
   height: 50%;
   background-color: white;
+  overflow: scroll;
 }
 
-.pi {
-  height: 30%;
+/*************************right-nav***********************************/
+.cards {
+  height: 45%;
   background-color: white;
+  margin-bottom: 30px;
+}
+.pi {
+  height: 45%;
+  background-color: white;
+}
+/*************************left-nav***********************************/
+
+.logOutBtn {
+  padding-top: 280%;
 }
